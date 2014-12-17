@@ -8,5 +8,5 @@
 	define('APP_W',basename($_SERVER['SCRIPT_NAME']));
 	
 	
-	require 'system/core.php';
+	require 'sys/core.php';
 	Core::init();
